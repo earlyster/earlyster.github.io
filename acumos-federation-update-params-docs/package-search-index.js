@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"org.acumos.federation.client"},{"l":"org.acumos.federation.client.config"},{"l":"org.acumos.federation.client.data"},{"l":"org.acumos.federation.client.test"},{"l":"org.acumos.federation.gateway"}]
