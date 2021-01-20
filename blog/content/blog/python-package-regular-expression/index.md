@@ -85,7 +85,6 @@ print(PhoneNumberFormat("555-555-5555^^^^"))
 print(PhoneNumberFormat("%$^&-#$%-@#$%"))
 ```
 
-
 The resulting output is
 
 ```console
