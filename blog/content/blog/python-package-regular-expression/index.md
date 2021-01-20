@@ -1,8 +1,7 @@
 ---
-title: Python Importing re package
+title: Python Importing Regular Expression package
 date: "2021-01-19T16:20:30+08:00"
-
-description: "Learning about the regular expression (re) python package "
+description: "Learning about the regular expression (re) python package"
 ---
 
 I was able to use the python import statement to pull in the [re package](https://docs.python.org/3/library/re.html). Once I did this I was able to find patterns in content using high level method search() or lower level  methods such as compile, match and group(s). 
